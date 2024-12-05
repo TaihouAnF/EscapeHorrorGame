@@ -38,11 +38,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GestureTrackerVR",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/378f739f054340899db2569090222fd3"
-		},
-		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
 		}
